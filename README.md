@@ -15,7 +15,7 @@
 - **Hero Image:** 
   <img src="assets/quests/1252352602092339400/hero.jpg" alt="Hero Image" width="200"/>
 
-- **Quest Bar Hero:** 
+- **Quest Bar Hero:**
   <img src="assets/quests/1252352602092339400/quest_bar_hero_square.jpg" alt="Quest Bar Hero" width="200"/>
 
 - **Game Tile:** 
@@ -48,7 +48,7 @@
 - **Type:** 3
 - **SKU ID:** 1252353273256480818
 - **Asset:** 
-  <img src="assets/reward_preview.webm" alt="Reward Preview" width="200"/>
+  <img src="assets/quests/1252352602092339400/reward_preview.webm" alt="Reward Preview" width="200"/>
 
 - **Messages:**
   - **Name:** Victory Crown Avatar Decoration
