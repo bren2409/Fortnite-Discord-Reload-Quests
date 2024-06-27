@@ -12,11 +12,10 @@
 - **Link:** [Fortnite News](https://www.fortnite.com/news/squad-up-for-fortnite-reload)
 
 ### Assets
-- **Hero Image:** ![Hero Image](assets/quests/1252352602092339400/hero.jpg)
-- **Quest Bar Hero:** ![Quest Bar Hero](assets/quests/1252352602092339400/quest_bar_hero_square.jpg)
-- **Game Tile:** ![Game Tile](assets/quests/1252352602092339400/dark/fortnite_tile_with_background.png)
-- **Logotype:** ![Logotype](assets/quests/1252352602092339400/dark/fortnite_logotype.png)
-
+- **Hero Image:** <img src="assets/quests/1252352602092339400/hero.jpg" alt="Hero Image" width="200"/>
+- **Quest Bar Hero:** <img src="assets/quests/1252352602092339400/quest_bar_hero_square.jpg" alt="Quest Bar Hero" width="200"/>
+- **Game Tile:** <img src="assets/quests/1252352602092339400/dark/fortnite_tile_with_background.png" alt="Game Tile" width="200"/>
+- **Logotype:** <img src="assets/quests/1252352602092339400/dark/fortnite_logotype.png" alt="Logotype" width="200"/>
 ### Colors
 - **Primary:** `#031A69`
 - **Secondary:** `#04269A`
