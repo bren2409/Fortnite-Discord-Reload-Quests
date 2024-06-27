@@ -32,9 +32,8 @@
   <img src="assets/quests/1252352602092339400/dark/fortnite_logotype.png" alt="Logotype" width="200"/>
 </details>
 
-## Avatar Decoration Presets
 <details>
-  <summary>Presets</summary>
+  <summary>Decoration Assets</summary>
   <img src="assets/avatar-decoration-presets/1252352602092339400/a_65db91cee351e36150a2b506b26eba71.png" alt="Victory Crown Avatar Decoration" width="200"/>
   <img src="assets/avatar-decoration-presets/1252352602092339400/_a_65db91cee351e36150a2b506b26eba71.png" alt="Victory Crown Avatar Decoration (SMALL)" width="100"/>
   <img src="assets/quests/1252352602092339400/reward_preview.webm" alt="Reward Preview" width="200"/>
