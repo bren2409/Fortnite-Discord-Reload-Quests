@@ -13,16 +13,16 @@
 
 ### Assets
 - **Hero Image:** 
-  ![Hero Image](assets/quests/1252352602092339400/hero.jpg | width=200)
+  <img src="assets/quests/1252352602092339400/hero.jpg" alt="Hero Image" width="200"/>
 
 - **Quest Bar Hero:** 
-  ![Quest Bar Hero](assets/quests/1252352602092339400/quest_bar_hero_square.jpg | width=200)
+  <img src="assets/quests/1252352602092339400/quest_bar_hero_square.jpg" alt="Quest Bar Hero" width="200"/>
 
 - **Game Tile:** 
-  ![Game Tile](assets/quests/1252352602092339400/dark/fortnite_tile_with_background.png | width=200)
+  <img src="assets/quests/1252352602092339400/dark/fortnite_tile_with_background.png" alt="Game Tile" width="200"/>
 
 - **Logotype:** 
-  ![Logotype](assets/quests/1252352602092339400/dark/fortnite_logotype.png | width=200)
+  <img src="assets/quests/1252352602092339400/dark/fortnite_logotype.png" alt="Logotype" width="200"/>
 
 ### Colors
 - **Primary:** `#031A69`
@@ -48,7 +48,7 @@
 - **Type:** 3
 - **SKU ID:** 1252353273256480818
 - **Asset:** 
-  ![Reward Preview](assets/reward_preview.webm | width=200)
+  <img src="assets/reward_preview.webm" alt="Reward Preview" width="200"/>
 
 - **Messages:**
   - **Name:** Victory Crown Avatar Decoration
