@@ -12,17 +12,25 @@
 - **Link:** [Fortnite News](https://www.fortnite.com/news/squad-up-for-fortnite-reload)
 
 ### Assets
-- **Hero Image:** 
+<details>
+  <summary>Hero Image</summary>
   <img src="assets/quests/1252352602092339400/hero.jpg" alt="Hero Image" width="200"/>
+</details>
 
-- **Quest Bar Hero:**
+<details>
+  <summary>Quest Bar Hero</summary>
   <img src="assets/quests/1252352602092339400/quest_bar_hero_square.jpg" alt="Quest Bar Hero" width="200"/>
+</details>
 
-- **Game Tile:** 
+<details>
+  <summary>Game Tile</summary>
   <img src="assets/quests/1252352602092339400/dark/fortnite_tile_with_background.png" alt="Game Tile" width="200"/>
+</details>
 
-- **Logotype:** 
+<details>
+  <summary>Logotype</summary>
   <img src="assets/quests/1252352602092339400/dark/fortnite_logotype.png" alt="Logotype" width="200"/>
+</details>
 
 ### Colors
 - **Primary:** `#031A69`
@@ -47,8 +55,10 @@
 ### Rewards
 - **Type:** 3
 - **SKU ID:** 1252353273256480818
-- **Asset:** 
-  <img src="assets/quests/1252352602092339400/reward_preview.webm" alt="Reward Preview" width="200"/>
+<details>
+  <summary>Asset</summary>
+  <img src="assets/reward_preview.webm" alt="Reward Preview" width="200"/>
+</details>
 
 - **Messages:**
   - **Name:** Victory Crown Avatar Decoration
