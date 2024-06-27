@@ -34,9 +34,11 @@
 
 <details>
   <summary>Decoration Assets</summary>
-  <img src="assets/avatar-decoration-presets/1252352602092339400/a_65db91cee351e36150a2b506b26eba71.png" alt="Victory Crown Avatar Decoration" width="200"/>
-  <img src="assets/avatar-decoration-presets/1252352602092339400/_a_65db91cee351e36150a2b506b26eba71.png" alt="Victory Crown Avatar Decoration (SMALL)" width="100"/>
-  <img src="assets/quests/1252352602092339400/reward_preview.webm" alt="Reward Preview" width="200"/>
+  <img src="assets/avatar-decoration-presets/a_65db91cee351e36150a2b506b26eba71.png" alt="Victory Crown Avatar Decoration" width="200"/>
+  <img src="assets/avatar-decoration-presets/_a_65db91cee351e36150a2b506b26eba71.png" alt="Victory Crown Avatar Decoration (SMALL)" width="100"/>
+  <video width="320" height="240" controls>
+    <source src="assets/quests/1252352602092339400/reward_preview.mp4" type="video/mp4">
+  </video>
 </details>
 
 
